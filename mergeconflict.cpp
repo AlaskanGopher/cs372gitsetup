@@ -1,7 +1,7 @@
 #include <iostream>
 
 int main()
-{ 
-    cout << "Before Merge Conflict in new branch" << endl;
+{ #error
+    cout << "MERGE CONFLICT" << endl;
     return 1;
 }
